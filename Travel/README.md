@@ -1,4 +1,4 @@
-# Vue-Travel APP 是学习Vue开发去哪儿网的项目
+# Travel 是学习Vue开发去哪儿网的项目
 
 ## Project setup
 ```
